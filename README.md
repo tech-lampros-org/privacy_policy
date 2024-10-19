@@ -1,6 +1,6 @@
 Privacy Policy for Lampros Home Solutions App
 
-Last Updated: [Date]
+Last Updated: 10/19/2024
 
 Lampros Virtual Build Mart ("we," "us," or "our") is committed to protecting your privacy. This Privacy Policy outlines how we collect, use, disclose, and protect your information when you use the Lampros Home Solutions App ("the App"). By using the App, you agree to the collection and use of information as outlined in this Privacy Policy.
 
@@ -80,4 +80,6 @@ We may update this Privacy Policy from time to time. We will notify you of any c
 Contact Us
 If you have any questions or concerns about this Privacy Policy, please contact us at:
 
-Lampros Virtual Build Mart Email: [Your contact email] Address: [Your contact address]
+Lampros Virtual Build Mart Email: support@lamprosindia.com Address: Customer support manager 
+Lampros virtual buildmart private limited
+Koduvally,Kozhikode,kerala -673572, India
